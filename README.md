@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on ContentMachine, an end-to-end pipeline for creating AI generated, entertaining short-form videos to be posted on social media, as well as other consulting projects as my schedule allows<br>🌱 I'm currently learning more Python, Node.js, Postman, AWS, ffmpeg, as well as content/marketing strategy.<br>💬 Ask me about Python, back-end software development, software testing best practices, AWS, & serverless.
+🔭 I'm currently working on ContentMachine, an end-to-end pipeline for creating AI generated, entertaining short-form videos to be posted on social media, as well as other consulting projects as my schedule allows.<br>🌱 I'm currently learning more Python, Node.js, Postman, AWS, ffmpeg, as well as content/marketing strategy.<br>💬 Ask me about Python, back-end software development, software testing best practices, AWS, & serverless.
 
 
 ## 🌐 Socials:
