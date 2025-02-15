@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Pratt Industries, my freelance consulting business where I take on short-term Software Engineering, Software Architecting, & IT projects as my schedule allows, while I look for my next long-term project.<br>🌱 I'm currently learning more Python, Node.js, Postman, AWS, ffmpeg, as well as content/marketing strategy.<br>💬 Ask me about Python, back-end software development, software testing best practices, AWS, & serverless.
+🔭 I'm currently working on my freelance consulting business where I take on short-term Software Engineering, Software Architecting, & IT projects as my schedule allows, while I look for my next long-term project.<br>🌱 I'm currently learning more Python, Node.js, Postman, AWS, ffmpeg, as well as content/marketing strategy.<br>💬 Ask me about Python, back-end software development, software testing best practices, AWS, & serverless.
 
 
 ## 🌐 Socials:
