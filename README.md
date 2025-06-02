@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my freelance consulting business where I take on short-term Software Engineering, DevOps, Cloud, & IT projects as my schedule allows, while I look for my next long-term project.<br>🌱 I'm currently learning more Azure, Teraform, Python, Node.js, Postman, AWS, as well as content/marketing strategy.<br>💬 Ask me about Microsoft Azyre, AWS, Python, back-end software development, software testing/DevOps best practices, & serverless.
+🔭 I'm currently working on my freelance consulting business where I take on short-term Software Engineering, DevOps, Cloud, & IT projects as my schedule allows, while I look for my next long-term project.<br>🌱 I'm currently learning more Azure, Teraform, Python, Node.js, Postman, AWS, as well as content/marketing strategy.<br>💬 Ask me about AWS, Microsoft Azure, Python, back-end software development, software testing/DevOps best practices, & serverless.
 
 
 ## 🌐 Socials:
