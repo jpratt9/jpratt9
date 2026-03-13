@@ -10,3 +10,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jpratt9&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+## 📰 Recent Blog Posts
+- [Unlocking Growth with Scalable Cloud Solutions](https://www.john-pratt.com/scalable-cloud-solutions) - Mar 12, '26
+- [Your Guide to Modern Infra Tech Solutions](https://www.john-pratt.com/infra-tech-solutions) - Mar 11, '26
+- [Discover DevOps Automation Services to Accelerate Delivery and Reliability](https://www.john-pratt.com/devops-automation-services) - Mar 10, '26
+- [10 Key Types of Resume Formats for Tech Roles](https://www.john-pratt.com/types-of-resume) - Mar 9, '26
+- [Networking Job Search: Your 2026 Guide to Building Career Connections](https://www.john-pratt.com/networking-job-search) - Mar 8, '26
+- [Your Guide to a Data Mining Career in 2026](https://www.john-pratt.com/data-mining-career) - Mar 7, '26
