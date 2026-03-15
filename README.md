@@ -6,4 +6,3 @@
 
 ## 📰 Recent Blog Posts
 <table><tr><td><a href="https://www.john-pratt.com/google-cloud-next">Google Cloud Next Unpacked: Your Guide to AI an...</a> - Mar 13</td><td><a href="https://www.john-pratt.com/scalable-cloud-solutions">Unlocking Growth with Scalable Cloud Solutions</a> - Mar 12</td></tr><tr><td><a href="https://www.john-pratt.com/infra-tech-solutions">Your Guide to Modern Infra Tech Solutions</a> - Mar 11</td><td><a href="https://www.john-pratt.com/devops-automation-services">Discover DevOps Automation Services to Accelera...</a> - Mar 10</td></tr><tr><td><a href="https://www.john-pratt.com/types-of-resume">10 Key Types of Resume Formats for Tech Roles</a> - Mar 9</td><td><a href="https://www.john-pratt.com/networking-job-search">Networking Job Search: Your 2026 Guide to Build...</a> - Mar 8</td></tr></table>
-TEST
